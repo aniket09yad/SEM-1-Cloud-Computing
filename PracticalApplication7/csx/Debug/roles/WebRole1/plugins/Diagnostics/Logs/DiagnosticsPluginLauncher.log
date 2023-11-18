@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Emulator config file set to C:\Users\hrisabhy\source\repos\PracticalApplication7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] DiagnosticsStoreRootPath set to: C:\Users\hrisabhy\AppData\Local\dftmp\Resources\a2643e65-a0b0-41d2-bc75-627a9a979bf2
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Loading config file: C:\Users\hrisabhy\source\repos\PracticalApplication7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Config file to read: C:\Users\hrisabhy\source\repos\PracticalApplication7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Emulator config file set to C:\Users\hrisabhy\source\repos\PracticalApplication7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [13-10-2023 17:18:26] Resetting DiagnosticPlugin
